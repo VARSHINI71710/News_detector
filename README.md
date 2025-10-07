@@ -1,5 +1,7 @@
 📰 Fake News Detector using BERT
 
+Try this app here:http://127.0.0.1:7860/
+
 This project is an AI-based Fake News Detection System built using the BERT (Bidirectional Encoder Representations from Transformers) model.
 It classifies news as Real or Fake based on its content.
 
